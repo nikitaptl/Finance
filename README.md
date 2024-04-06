@@ -1,2 +1,3 @@
-# works_Financial-markets
-Hi! Here I publish my works on financial markets, business analytics, and accounting.
+# Сompany analyses
+## Financial analyses of various companies are published here:
+- Nornickel 
